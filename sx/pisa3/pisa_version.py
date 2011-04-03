@@ -17,8 +17,8 @@
 __reversion__ = "$Revision: 247 $"
 __author__    = "$Author: holtwick $"
 __date__      = "$Date: 2008-08-15 13:37:57 +0200 (Fr, 15 Aug 2008) $"
-__version__   = VERSION = "VERSION{3.0.33}VERSION"[8:-8]
-__build__     = BUILD   = "BUILD{2010-06-16}BUILD"[6:-6]
+__version__   = VERSION = "VERSION{3.0.33.unomena.1}VERSION"[8:-8]
+__build__     = BUILD   = "BUILD{2011-04-03}BUILD"[6:-6]
 
 VERSION_STR = """XHTML2PDF/pisa %s (Build %s)
 http://www.xhtml2pdf.com

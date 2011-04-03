@@ -29,7 +29,7 @@ except ImportError:
 
 setup(
     name           = "pisa",
-    version        = "VERSION{3.0.33}VERSION"[8:-8],
+    version        = "VERSION{3.0.33.unomena.1}VERSION"[8:-8],
     description    = "PDF generator using HTML and CSS",
     license        = "Apache License 2.0",
     author         = "Dirk Holtwick",
